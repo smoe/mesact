@@ -1,3 +1,9 @@
+mesact (1.2.3+20230309git3ca4c58-1) unstable; urgency=medium
+
+  * Initial upload (Closes: #1027457).
+
+ -- John Thornton <dev@gnipsel.com>  Sat, 18 Mar 2023 16:34:40 +0100
+
 mesact (1.2.3) unstable; urgency=medium
 
   * Remove images that do not have a source file
